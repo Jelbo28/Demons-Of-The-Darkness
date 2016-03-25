@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 14dca67b51bc46a4b86c69771944657c
+timeCreated: 1457533444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 'Fine Carpet '
+    100002: 'First Room: Floor'
+    100004: First Room:Ceiling
+    100006: First Room:Walls
+    100008: Flooring Right T
+    100010: Fork Floor Texture
+    100012: Left Hall Curving
+    100014: Left Hall Final Curve
+    100016: Left Hall Floor
+    100018: Left Hall Walls
+    100020: Right Hall-Straight
+    100022: Right Hallway Curving
+    100024: Right Hallway Floor
+    100026: Right Hallway-Curving Right
+    100028: //RootNode
+    100030: Wall
+    100032: Wall Behind
+    100034: Wall in front
+    400000: 'Fine Carpet '
+    400002: 'First Room: Floor'
+    400004: First Room:Ceiling
+    400006: First Room:Walls
+    400008: Flooring Right T
+    400010: Fork Floor Texture
+    400012: Left Hall Curving
+    400014: Left Hall Final Curve
+    400016: Left Hall Floor
+    400018: Left Hall Walls
+    400020: Right Hall-Straight
+    400022: Right Hallway Curving
+    400024: Right Hallway Floor
+    400026: Right Hallway-Curving Right
+    400028: //RootNode
+    400030: Wall
+    400032: Wall Behind
+    400034: Wall in front
+    2300000: 'Fine Carpet '
+    2300002: 'First Room: Floor'
+    2300004: First Room:Ceiling
+    2300006: First Room:Walls
+    2300008: Flooring Right T
+    2300010: Fork Floor Texture
+    2300012: Left Hall Curving
+    2300014: Left Hall Final Curve
+    2300016: Left Hall Floor
+    2300018: Left Hall Walls
+    2300020: Right Hall-Straight
+    2300022: Right Hallway Curving
+    2300024: Right Hallway Floor
+    2300026: Right Hallway-Curving Right
+    2300028: Wall
+    2300030: Wall Behind
+    2300032: Wall in front
+    3300000: 'Fine Carpet '
+    3300002: 'First Room: Floor'
+    3300004: First Room:Ceiling
+    3300006: First Room:Walls
+    3300008: Flooring Right T
+    3300010: Fork Floor Texture
+    3300012: Left Hall Curving
+    3300014: Left Hall Final Curve
+    3300016: Left Hall Floor
+    3300018: Left Hall Walls
+    3300020: Right Hall-Straight
+    3300022: Right Hallway Curving
+    3300024: Right Hallway Floor
+    3300026: Right Hallway-Curving Right
+    3300028: Wall
+    3300030: Wall Behind
+    3300032: Wall in front
+    4300000: Wall
+    4300002: First Room:Ceiling
+    4300004: First Room:Walls
+    4300006: 'First Room: Floor'
+    4300008: 'Fine Carpet '
+    4300010: Left Hall Floor
+    4300012: Right Hallway Floor
+    4300014: Wall in front
+    4300016: Wall Behind
+    4300018: Right Hall-Straight
+    4300020: Right Hallway Curving
+    4300022: Right Hallway-Curving Right
+    4300024: Left Hall Walls
+    4300026: Left Hall Curving
+    4300028: Left Hall Final Curve
+    4300030: Fork Floor Texture
+    4300032: Flooring Right T
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
